@@ -23,6 +23,6 @@ public class DemoApplication extends SpringBootServletInitializer {
 
 	@RequestMapping("/")
 	public String message(){
-		return "Welcome home!";
+		return "Welcome home Son!";
 	}
 }
